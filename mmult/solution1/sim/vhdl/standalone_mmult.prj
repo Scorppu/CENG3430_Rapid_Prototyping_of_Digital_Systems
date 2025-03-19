@@ -1,0 +1,11 @@
+vhdl xil_defaultlib "AESL_sim_pkg.vhd"
+vhdl xil_defaultlib "ip/xil_defaultlib/standalone_mmult_ap_fadd_3_full_dsp_32.vhd"
+vhdl xil_defaultlib "ip/xil_defaultlib/standalone_mmult_ap_fmul_2_max_dsp_32.vhd"
+vhdl xil_defaultlib "AESL_automem_A.vhd"
+vhdl xil_defaultlib "AESL_automem_B.vhd"
+vhdl xil_defaultlib "AESL_automem_C.vhd"
+vhdl xil_defaultlib "standalone_mmult.autotb.vhd"
+vhdl xil_defaultlib "standalone_mmult.vhd"
+vhdl xil_defaultlib "standalone_mmult_bkb.vhd"
+vhdl xil_defaultlib "standalone_mmult_cud.vhd"
+

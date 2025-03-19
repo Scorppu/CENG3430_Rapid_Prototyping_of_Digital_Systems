@@ -1,0 +1,5 @@
+   Build using "C:/Xilinx/Vivado_HLS/2016.3/msys/bin/g++.exe"
+   Compiling apatb_standalone_mmult.cpp
+   Compiling mmult_accel.cpp_pre.cpp.tb.cpp
+   Compiling mmult_test.cpp_pre.cpp.tb.cpp
+   Generating cosim.tv.exe
